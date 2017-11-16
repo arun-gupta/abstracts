@@ -1,0 +1,5 @@
+= Kubernetes on AWS
+
+== Workshop
+
+Kubernetes is a popular cloud-native open-source orchestration platform for container management, scaling and automated deployment. It includes a rich set of features such as service discovery, multi-tenancy, stateful containers, resource usage monitoring, and rolling updates. Some of the questions we will go over are: How do we deploy using infrastructure technologies like CloudFormation and Terraform? How can CLI clients such as kops, kubeadm, juju-charms and minikube be used to interact with Kubernetes? What does a clean CI/CD pipeline look like using AWS? How do we integrate with tools such as Maven? In this code-driven workshop you will learn how to package, deploy, scale, and monitor your Java application using Kubernetes and the AWS cloud.
