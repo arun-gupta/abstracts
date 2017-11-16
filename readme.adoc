@@ -1,0 +1,3 @@
+= Abstracts
+
+. link:compute-aws.adoc[Compute options for Microservices on AWS]
