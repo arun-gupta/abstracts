@@ -2,3 +2,4 @@
 
 . link:compute-aws.adoc[Compute options for Microservices on AWS]
 . link:k8s-aws.adoc[Kubernetes on AWS]
+. link:serverless.adoc[Serverless Architecture Patterns and Best Practices]
