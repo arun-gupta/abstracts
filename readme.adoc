@@ -2,6 +2,7 @@
 
 . link:eks.adoc[Introducing Amazon EKS]
 . link:compute-aws.adoc[Compute options for Microservices on AWS]
+. link:compose.adoc[Using Docker Compose with Swarm, Kubernetes and Amazon Elastic Container Service]
 . link:k8s-aws.adoc[Kubernetes on AWS]
 . link:serverless.adoc[Serverless Architecture Patterns and Best Practices]
 . link:chatbot.adoc[Build, Debug and Deploy your first Chatbot]

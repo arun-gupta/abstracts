@@ -1,0 +1,11 @@
+= Using Docker Compose with Swarm, Kubernetes and Amazon Elastic Container Service
+
+Docker Compose allows to define and run multi-container applications. All services in your application are defined in a YAML configuration. The application can then be started with a single command, and targeted to multiple orchestration systems.
+
+This talk will explain how a Java application, consisting of multiple microservices, can be easily defined using Docker Compose. This application will then be deployed as a Stack to Docker Swarm. Same application will then also be deployed to Kubernetes and Amazon Elastic Container Service. 
+
+Compose file syntax such as service discovery, scaling of applications and volume mapping will be explained for each of the orchestration frameworks. Details about how Compose is mapped to the native constructs of each of the orchestration framework will be explained. Pros and cons of different combinations will be explained.
+
+Attendees will leave with a fully working example and detailed instructions on how to use this in their setup.
+
+
