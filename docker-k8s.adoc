@@ -1,0 +1,14 @@
+= Docker and Kubernetes Together
+
+Docker has added support for Kubernetes. This means you can use the familiar tooling that is used for containerizing the application to deploy it to Kubernetes as well, and this is in addition to Docker Swarm.
+
+The session will have a Docker Captain and a Kubernetes and Docker developer in an interactive dialog to explain how Docker provides a comprehensive toolchain to develop, test and deploy applications to Kubernetes.
+
+The attendees will learn:
+
+- How to test and deploy an application to Kubernetes using Docker for Desktop and Docker Enterprise Edition
+- Key components of the architecture that enable this pluggability of orchestration systems
+- Show how an in-built Kubernetes cluster is provided by Docker for Desktop and an external Kubernetes cluster, such as created by Elastic Container Service for Kubernetes, can be configured for deployment
+- How a Custom Resource Definition allows to deploy a Docker Compose application to Kubernetes
+- Show full deployment pipeline from push-to-prod
+
