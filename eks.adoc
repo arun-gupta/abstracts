@@ -1,5 +1,15 @@
 = Introducing Amazon EKS
 
-Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a new managed service for running Kubernetes on AWS. This session will provide an overview of Amazon EKS, why we built it, and how it works. Attendees will learn about how IAM roles can be used for authentication with the cluster using kubectl and assigned to pods at runtime. Cluster visibility using CloudWatch logs and Cloud Trail will be explained. Other open source options will be discussed as well. Pod networking using the open source CNI plugin and network policies will be explained. AWS CLI commands to manage the cluster will be explained and shown. Finally, the session will explain how a Java application can be easily deployed to this service.
+Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a new managed service for running Kubernetes on AWS. This session will provide an overview of Amazon EKS, why we built it, and how it works. Attendees will learn about how IAM roles can be used for authentication with the cluster using kubectl and assigned to pods at runtime. Cluster visibility using CloudWatch logs and Cloud Trail will be explained. Pod networking using the open source CNI plugin as well as the AWS CLI commands to manage the cluster will be explained and shown. Attendees will learn how about master nodes autoscaling and manual scaling of worker nodes. Finally, the session will explain how an application can be easily deployed to this service maintaining upstream Kubernetes experience. This session will provide different ways how attendees can engage with AWS using different open source channels.
+
+== Slightly longer abstract
+
+Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a new managed service for running Kubernetes on AWS. This session will provide an overview of Amazon EKS, why we built it, and how it works. Attendees will learn about how IAM roles can be used for authentication with the cluster using kubectl and assigned to pods at runtime. Cluster visibility using CloudWatch logs and Cloud Trail will be explained. Other open source options will be discussed as well. Pod networking using the open source CNI plugin and network policies will be explained. AWS CLI commands to manage the cluster will be explained and shown. Attendees will learn how the master nodes autoscale based upon the demands of the application, and how they can scale worker nodes to meet their needs. Finally, the session will explain how an application can be easily deployed to this service maintaining upstream Kubernetes experience.
 
 Even though the service is in limited preview, the attendees will be able to see a fully functional cluster. This session will provide different ways how attendees can engage with AWS using different open source channels.
+
+== Open Source take
+
+Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a new managed service for running a Kubernetes cluster on AWS. This In this talk, we'll talk about how we CNI and IAM ....
+
+How we are getting used to operating in the open source. From the design stage. Earlier only circulate design only to Amazon, now use communication channels in the community, track project features, participate in SIGs.
