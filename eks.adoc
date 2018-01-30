@@ -16,9 +16,3 @@ A core tenet of this managed service is to maintain a 100% upstream experience. 
 
 Amazon EKS is an example of a service that is changing how open source is a fundamental part building a service at AWS. From community engagement to the internal process changes, this session will cover what Amazon EKS can do, what components were open sourced, and what we contributed to. We'll discuss the challenges, success stories, and lessons learned allowing you to walk away with a better understanding of how to collaborate along with Amazon on open source projects.
 
-
-
-
- From the design stage. Earlier only circulate design only to Amazon, now use communication channels in the community, track project features, participate in SIGs.
-
-We'll share how this service is a trailblazer at AWS as the key components of the service are built in open source
