@@ -8,8 +8,17 @@ Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a new managed se
 
 Even though the service is in limited preview, the attendees will be able to see a fully functional cluster. This session will provide different ways how attendees can engage with AWS using different open source channels.
 
-== Open Source take
+== Collaborating and Building Amazon EKS through Open Source
 
-Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a new managed service for running a Kubernetes cluster on AWS. This In this talk, we'll talk about how we CNI and IAM ....
+Amazon Elastic Container Service for Kubernetes (Amazon EKS) is a new managed service at Amazon, making it easy for you to run Kubernetes on AWS without the need to install and operate your own Kubernetes clusters. 
 
-How we are getting used to operating in the open source. From the design stage. Earlier only circulate design only to Amazon, now use communication channels in the community, track project features, participate in SIGs.
+A core tenet of this managed service is to maintain a 100% upstream experience. Another tenet is how the engineering team builds all features in upstream The core components of the service, such as Container Networking Interface (CNI) implementation and Identity Access Management (IAM) integration in the Kubernetes CLI, are fully open sourced. Kubernetes is one of the most successful open source projects with most of the work happening in Special Interest Groups (SIG). The development of Amazon EKS required active and transparent collaboration between AWS and engineers from a number of different companies.
+
+Amazon EKS is an example of a service that is changing how open source is a fundamental part building a service at AWS. From community engagement to the internal process changes, this session will cover what Amazon EKS can do, what components were open sourced, and what we contributed to. We'll discuss the challenges, success stories, and lessons learned allowing you to walk away with a better understanding of how to collaborate along with Amazon on open source projects.
+
+
+
+
+ From the design stage. Earlier only circulate design only to Amazon, now use communication channels in the community, track project features, participate in SIGs.
+
+We'll share how this service is a trailblazer at AWS as the key components of the service are built in open source
