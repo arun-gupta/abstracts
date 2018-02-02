@@ -1,3 +1,11 @@
 = Serverless Architecture Patterns and Best Practices
 
+== Alternative 1
+
 Serverless computing allows you to build and run applications without the need for provisioning or managing servers. AWS Lambda has changed how developers build and run their applications or services. But what are the best practices for tasks such as deployment, monitoring, and debugging in a serverless world? In this session, we’ll dive into best practices that serverless developers can use for application lifecycle management, CI/CD, monitoring, and diagnostics. We’ll talk about how you can build CI/CD pipelines that automatically build, test, and deploy your serverless applications using AWS CodePipeline, AWS CodeBuild, and AWS CloudFormation. We’ll also cover the built-in capabilities of Lambda and API Gateway for creating multiple versions, stages, and environments of your functions and APIs. Finally, we’ll cover monitoring and diagnostics of your Lambda functions with Amazon CloudWatch and AWS X-Ray.
+
+
+== Alternative 2
+
+Serverless computing allows you to build and run applications without the need for provisioning or managing servers. AWS Lambda has changed how developers build and run their applications or services. But what are the best practices for tasks such as deployment, monitoring, and debugging in a serverless world? In this session, we’ll dive into best practices that serverless developers can use for application lifecycle management. We'll talk about Serverless applications can be defined declaratively using Serverless Application Model. A local development and debugging environment will be explained and shown using SAM Local. Architecture patterns for monitoring using AWS X-Ray, event processing using AWS Step Functions, web application using Amazon Cognito and Amazon DynamoDB and real-time processing using Amazon Kinensis will be explained as well. We’ll talk about how you can build CI/CD pipelines that automatically build, test, and deploy your serverless applications using AWS CodePipeline, AWS CodeBuild, and AWS CloudFormation. Attendees will walk away with a deep understand of deploying Serverless applications and using them for production.
+
