@@ -1,6 +1,6 @@
 = Java developer's journey in Kubernetes land
 
-This will be a code-only session, possibly with an interactive dialog.
+This will be a no-slide code-only session, possibly with an interactive dialog between two presenters.
 
 - Show a Java application with three microservices (can use https://github.com/aws-samples/aws-compute-options/tree/master/services)
 - How this application is packaged as a Docker image
