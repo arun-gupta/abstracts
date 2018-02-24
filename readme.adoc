@@ -7,4 +7,6 @@
 . link:k8s-aws.adoc[Kubernetes on AWS]
 . link:serverless.adoc[Serverless Architecture Patterns and Best Practices]
 . link:chatbot.adoc[Build, Debug and Deploy your first Chatbot]
-. link:service-disovery.adoc[Service Discovery in Container Orchestration Frameworks]
+. link:service-discovery.adoc[Service Discovery in Container Orchestration Frameworks]
+. link:java-k8s.adoc[Java developer's journey in Kubernetes land]
+
