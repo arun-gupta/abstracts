@@ -12,5 +12,6 @@ This will be a code-only session, possibly with an interactive dialog.
 - Install k8s on AWS
 - Migrate application from local cluster to cluster on AWS
 - Deployment pipeline using CodePipeline
+- Use an Alexa skill to scale the application
 - Change application, show A/B using Istio
 
