@@ -1,0 +1,16 @@
+= Java developer's journey in Kubernetes land
+
+This will be a code-only session, possibly with an interactive dialog.
+
+- Show a Java application with three microservices (can use https://github.com/aws-samples/aws-compute-options/tree/master/services)
+- How this application is packaged as a Docker image
+- Create Kubernetes manifests
+- How Helm charts are created
+- Test in a local environment such as minikube
+- Attach debugger (may need to find out if tooling exists in this area)
+- Install Istio in k8s, show service visibility
+- Install k8s on AWS
+- Migrate application from local cluster to cluster on AWS
+- Deployment pipeline using CodePipeline
+- Change application, show A/B using Istio
+
