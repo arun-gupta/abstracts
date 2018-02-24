@@ -10,7 +10,7 @@ This will be a code-only session, possibly with an interactive dialog.
 - Attach debugger (may need to find out if tooling exists in this area)
 - Install Istio in k8s, show service visibility
 - Install k8s on AWS
-- Migrate application from local cluster to cluster on AWS
+- Migrate application from a local cluster to a cluster on AWS
 - Deployment pipeline using CodePipeline
 - Use an Alexa skill to scale the application
 - Change application, show A/B using Istio
