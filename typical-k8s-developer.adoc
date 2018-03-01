@@ -1,0 +1,12 @@
+= A Typical Day in the Life of a Kubernetes Developer
+
+Taking your application from development to running in a Kubernetes cluster involves multiple steps. You need to learn how to package the application as a Docker image. Kubernetes manifest files that use those Docker images need to be created. The manifest files are then packaged together as a Helm chart and deployed to a repository. A deployment pipeline needs to be created that uses this Helm chart and deploy it to the cluster. Some common questions that occur during this process are where can the artifacts like Docker image, manifest and Helm charts be stored. Is there an integrated solution that allows storing application binaries and other artifacts together? How can the deployment pipeline be easily created? How to check for security vulnerabilities across different stages of the pipeline? How can the distributed application be monitored at runtime?
+
+This session will walk you through a typical day in the life of a Kubernertes developer. It will take a sample application consisting of multiple microservices and walk you through the experience of deploying it on a Kubernetes cluster and managing it. Attendees will learn how to:
+
+- Create Docker images for different microservices
+- Create Kubernetes manifest files and Helm charts for the application
+- Use JFrog Artifactory to store application binaries, Docker images and Helm charts
+- Create a deployment pipeline using AWS Codepipeline for Kubernetes
+- Use JFrog Xray to scan binary artifacts through different stages of the pipeline
+- Use AWS X-Ray to monitor the distributed application at runtime
