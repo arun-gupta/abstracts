@@ -11,7 +11,7 @@ Deploying your Java application in a Kubernetes cluster could feel like Alice in
 - Install Istio in k8s, show service visibility
 - Install k8s on AWS
 - Migrate application from a local cluster to a cluster on the Cloud
-- Deployment pipeline using CodePipeline
+- Setup deployment pipeline using CodePipeline
 - Use an Alexa skill to scale the application
 - Change application, show A/B using Istio
 
