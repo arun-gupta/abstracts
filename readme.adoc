@@ -1,12 +1,1 @@
 = Abstracts
-
-. link:docker-k8s.adoc[Docker and Kubernetes Together]
-. link:eks.adoc[Introducing Amazon EKS]
-. link:compute-aws.adoc[Compute options for Microservices on AWS]
-. link:compose.adoc[Using Docker Compose with Swarm, Kubernetes and Amazon Elastic Container Service]
-. link:k8s-aws.adoc[Kubernetes on AWS]
-. link:serverless.adoc[Serverless Architecture Patterns and Best Practices]
-. link:chatbot.adoc[Build, Debug and Deploy your first Chatbot]
-. link:service-discovery.adoc[Service Discovery in Container Orchestration Frameworks]
-. link:java-k8s.adoc[Java developer's journey in Kubernetes land]
-
