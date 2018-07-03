@@ -1,6 +1,6 @@
 = Using Chaos to Bring Resiliency to Kubernetes applications
 
-Chaos Engineering takes the complexity of a distriubuted system and test it holistically by simulating turbulent conditions and observing how the system responds and performs. The data collected allows to build more resilient applications. This talk will provide an introduction to the principles of Chaos Engineering. It will then introduce an application built using microservices deployed on a Kubernetes cluster. Majority of the talk will focus on how to perform Chaos Engineering experiments, collect data, identify the weakness and fix the system. Attendees will learn different tools like Gremlin, Istio and other open source offerings and how to conduct experiments using them. You'll walk away with fully working code samples.
+Chaos Engineering takes the complexity of a distriubuted system and test it holistically by simulating turbulent conditions and observing how the system responds and performs. The data collected allows to build more resilient applications. This talk will provide an introduction to the principles of Chaos Engineering. It will then introduce an application built using microservices deployed on a Kubernetes cluster. Majority of the talk will focus on how to perform Chaos Engineering experiments, collect data, identify the weakness and fix the system. Attendees will learn different tools like Istio, Chaos Toolkit, Kube Monkey and other open source offerings and how to conduct experiments using them. You'll walk away with fully working code samples.
 
 == Another Take
 
