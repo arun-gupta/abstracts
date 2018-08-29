@@ -1,0 +1,4 @@
+= Running Open Source Projects on Amazon EKS - Helm, Istio, OpenTracing and Jenkins
+
+Amazon EKS is a CNCF-certified Kubernetes distribution. This gives customers the confidence that workloads that run on any Certified Kubernetes Distribution or Platform will work correctly on EKS. It also means Amazon EKS is meeting the core tenet of providing compatbility with upstream distribution. This compatbility allows to leverage all the innovation that is happening in the Kubernetes community and apply it to EKS. This session will explain four open source projects that are very popular in the Kubernetes community and they can help simplify customer's experience for building applications on Amazon EKS. Specifically, this talk will provide a quick introduction to following four projects: Helm, Istio, OpenTracing and Jaeger, and Jenkins. Then it will show a working sample of of each these projects with Amazon EKS.
+
