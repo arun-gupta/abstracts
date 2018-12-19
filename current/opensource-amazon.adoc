@@ -1,0 +1,4 @@
+= Growing Open Source at Amazon
+
+Amazon contributes to many open source projects across Linux, security, containers, machine learning, serverless, and technology areas. We continue to widen our open source collaboration, increasing code contributions and helping to sustain the overall health of open source. We also engage actively with the open source communities that matter to our customers and partners. This talk shares Amazon's open source strategy and how we are enabling a culture of "open first" across the company. We will also highlight  lessons learned in leading and contributing to open source projects.
+
