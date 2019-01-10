@@ -4,14 +4,13 @@ Deploying your Java application in a Kubernetes cluster could feel like Alice in
 
 - Package the application as Docker image
 - Create Kubernetes manifests
-- Create Helm charts and host in a repository
-- Test in a local environment
-- Debug pods using IntelliJ and Telepresence
-- Distributed tracing across microservices
-- Metrics using Prometheus/Grafana
-- Deployment pipelines
+- Create Helm charts
+- Test in a local k8s cluster
+- Debug pods using IntelliJ
+- Observability using Istio
+- Canary and A/B testing
 - Migrate application from dev to prod environments
-- Change application, show Canary and A/B
+- Deployment pipeline on desktop and in the cloud
 
 == Another Take
 
