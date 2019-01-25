@@ -1,3 +1,7 @@
 = Firecracker: Secure and Fast microVM for Serverless Computing
 
 Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multitenant containers and functions-based services. Firecracker runs in user space and uses the Linux Kernel-based Virtual Machine (KVM) to create microVMs. The fast startup time and low memory overhead of each microVM enables you to pack thousands of microVMs onto the same machine. This talk explains the foundation of Firecracker. It explains the minimal device model and how it interacts with Kubernetes, Docker and Kata containers. Attendees will learn about the decisions made that led to the performance, security and utilization improvements enabled by Firecracker. You'll also learn how Firecracker is used as the building block for AWS Lambda and AWS Fargate. Finally, attendees will see a live demo of firing up thousands of Firecracker microVMs on a variety of cloud providers.
+
+- Attendees will learn how they can get security and isolation of VMs along with security and density of containers
+- How Firecracker is used to power Lambda, Fargate and Kata Containers
+- Attendees will learn how to get started with Firecracker on multiple clouds

@@ -6,7 +6,7 @@ Deploying your Java application in a Kubernetes cluster could feel like Alice in
 - Create Kubernetes manifests
 - Create Helm charts
 - Test in a local k8s cluster
-- Debug pods using IntelliJ
+- Debug pods using Java IDE
 - Observability using Istio
 - Canary and A/B testing
 - Migrate application from dev to prod environments
