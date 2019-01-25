@@ -1,0 +1,23 @@
+= Serverles: Functions to Containers
+
+Serverless computing is one of the preeminent technologies driving cloud adoption and modern applications. Serverless is predicated on the simple mantra: never manage servers. While AWS Lambda enabled this new style of computing, today, serverless has grown to be more than just AWS Lambda. Container technologies have evolved to bring developers the same serverless benefits – never manage clusters. Just write code. Firecracker provides an open source virtualization technology specifically designed for serverless computing. There is innovation happening at all layers of the stack. In this talk, we’ll take a look at how the serverless computing has evolved and the myriad of serverless offerings that have been created since then. As the serverless landscape evolves rapidly, we’ll dig into what’s coming next. Is orchestration still relevant in this new paradigm? How will serverless fundamentally change the way we think about application architecture and where do we see the next wave of innovation?
+
+Key points to be covered:
+
+- Lambda
+- Fargate
+- Firecracker
+- BYOL - C++/COBOL
+- Lambda layers / Docker images
+- Serverless WG in CNCF
+- Cloudevents: Storing an object in S3 triggers an event in Azure Functions and vice versa
+- Knative on Amazon EKS
+
+AWS specific technologies:
+
+- Serverless Application Model
+- Publish/share applications (SAR)
+- End-to-end visibility (X-Ray)
+- Composition (Step)
+- Canary deployment (CFN)
+- Deployment pipeline (CodePipeline)
