@@ -9,6 +9,7 @@ Key points to be covered:
 - Firecracker
 - BYOL - C++/COBOL
 - Lambda layers / Docker images
+- Publis/share/composable apps (SAR)
 - Serverless WG in CNCF
 - Cloudevents: Storing an object in S3 triggers an event in Azure Functions and vice versa
 - Knative on Amazon EKS
@@ -16,7 +17,6 @@ Key points to be covered:
 AWS specific technologies:
 
 - Serverless Application Model
-- Publish/share applications (SAR)
 - End-to-end visibility (X-Ray)
 - Composition (Step)
 - Canary deployment (CFN)
