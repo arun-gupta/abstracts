@@ -1,3 +1,12 @@
 = Provisioning a Kubernetes Pod in a MicroVM
 
 Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multitenant containers and functions-based services. Firecracker runs in user space and uses the Linux Kernel-based Virtual Machine (KVM) to create microVMs. Like traditional containers, firecracker microVMs offer fast start-up and shut-down and minimal overhead. Unlike traditional containers, however, they can provide an additional layer of isolation via the KVM hypervisor. Amazon is working to provide a firecracker and containerd integration that enable containerd to manage containers as firecracker microVMs. This talk will explain the motivation and architecture of this integration. Attendees will learn how a microVM is provisioned in the kubernetes data plane to run a pod. You'll learn how different components such as containerd and runc work with firecracker to provision a pod. 
+
+== Outline
+
+- what is firecracker?
+- what is containerd?
+- firecracker and containerd integration
+- lifecycle of pod in a firecracker microvm
+- live demo
+
