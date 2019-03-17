@@ -5,3 +5,14 @@ Kubernetes provides isolation, auto-scaling, load balancing, flexibility and GPU
 - Attendees will learn why Kubernetes is well suited to run machine learning frameworks
 - They will see how the most popular open source ML frameworks can run on Kubernetes
 - They will leave with a working sample using GitHub repos
+
+== Outline
+
+- why k8s for machine learning
+- key components of ML (training, cleaning up data, inference)
+- intro to kubeflow
+- TensorFlow using kubeflow
+- Pytorch using kubeflow
+- MXNet on k8s
+
+
