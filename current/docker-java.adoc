@@ -1,0 +1,3 @@
+= Docker and Java: Best Practices
+
+You've been building Java applications and wondering about the best practices and anti-patterns for creting Docker images and running containers. How can I integrate the process with my build workflow? How should the Dockerfile be structured? Which maven plugin should I use? How can I leverage Docker image layers effectively? What base images should be used? Does Docker respect the memory and processor limits defined for the Java application? How do you make it respect? How do you debug your application? How to get thread dumps? How to use the standard tools that come as part of JDK? How do you make sure your Java applications behave with Docker? This session will answer these questions and more.
