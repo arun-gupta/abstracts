@@ -6,6 +6,16 @@ Kubernetes provides isolation, auto-scaling, load balancing, flexibility and GPU
 - They will see how the most popular open source ML frameworks can run on Kubernetes
 - They will leave with a working sample using GitHub repos
 
+== Alternative abstract
+
+Kubernetes provides isolation, auto-scaling, load balancing, flexibility and GPU support. These features are critical to run computationally, data intensive and hard to parallelize machine learning models. Declarative syntax of Kubernetes deployment descriptors make it easy for non-operationally focused engineers to easily train machine learning models on Kubernetes. This talk will explain why and how Kubernetes is well suited for single- and multi-node distributed training, training your models, and deploying your models in production. Specifically it will show how to use KubeFlow and TensorFlow for your machine learning needs. We will also show to setup machine learning pipelines and set up visualization tools like TensorBoard for monitoring. We will also discuss distributed training using Horovod.
+
+== Alternative abstract
+
+Machine Learning on Amazon EKS
+
+Kubernetes provides isolation, auto-scaling, load balancing, flexibility and GPU support. These features are critical to run computationally, data intensive and hard to parallelize machine learning models. Declarative syntax of Kubernetes deployment descriptors make it easy for non-operationally focused engineers to easily train machine learning models on Kubernetes. This talk will explain why and how Amazon EKS is well suited for single- and multi-node distributed training, training your models, and deploying your models in production. Specifically it will show how to use KubeFlow and TensorFlow on Amazon EKS for your machine learning needs. We will also show to setup machine learning pipelines and set up visualization tools like TensorBoard for monitoring. We will also discuss distributed training using Horovod.
+
 == Outline
 
 - why k8s for machine learning
