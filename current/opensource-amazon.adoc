@@ -1,4 +1,4 @@
-= Growing Open Source at Amazon
+= Why Amazon cares about open source
 
-Amazon contributes to many open source projects across Linux, security, containers, machine learning, serverless, and technology areas. We continue to widen our open source collaboration, increasing code contributions and helping to sustain the overall health of open source. We also engage actively with the open source communities that matter to our customers and partners. This talk shares Amazon's open source strategy and how we are enabling a culture of "open first" across the company. We will also highlight  lessons learned in leading and contributing to open source projects.
+At AWS, we start with customers and work backwards to solve their problmes. Customer usage and dependencies on open source technologies have been steadily increasing over the years; this is why we’ve long been committed to open source, and our commitment to open source projects and communities continues to accelerate. Attend this talk to learn what drives our active participation in open-source communities.
 
