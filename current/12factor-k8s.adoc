@@ -1,0 +1,4 @@
+= 12 factor apps with Kubernetes
+
+12-factor app defines best practices for portable, scalable and resilient microservices-based applications. These factors are language, platform, and stack-agnostic. This talk will provide an overview of the 12-factor methodology and how each factor is supported by Kubernetes. Each factor will be explained using code and a working application. Attendees will learn how configuration for applications can be stored using ConfigMap and Secrets, how Helm charts can help with dev/prod parity, how logs can be unified using EFK/ELK, how Deployment, DaemonSet, and Horizontal Pod Autoscaler help with concurrency, how gitops can be used to simplify the build, release and run stages, and much more. Attendees will leave with a working application that will demonstrate all factors.
+

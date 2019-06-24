@@ -1,0 +1,12 @@
+= Shrinking your Java Docker image
+
+Java is a prominent language used for building enterprise applications. These apps are often packaged and run as Docker containers. But do you know how make this combination of Java and Docker work for you? Here are some of the questions that will be answered in this session:
+
+- how to package Java apps as Docker containers? Dockerfile? maven plugins?
+- how to use Docker image layering to match app structure?
+- what is the right base image? JDK or JRE?
+- create custom JREs using jlink/jdeps?
+- how are CPU and memory limits honored?
+- what's all the craze about Alpine? what do you you? what do you not get?
+- how do you debug Java apps running as containers?
+
