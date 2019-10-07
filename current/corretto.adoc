@@ -1,3 +1,12 @@
+= Migrating an AWS service from JDK 8 to Corretto 11, learnings and achievements
+
+In October 2018 we released Amazon Corretto, a no-cost distribution of OpenJDK. At launch we supported JDK 8 and on March 15th 2019 we introduced JDK 11 support. In this session we will explore the journey of migrating a major service from JDK 8 to JDK 11 using Corretto.
+
+This service like many of Amazon services is composed of multiple micro-services. Many of these microservices are written in Java and run on Corretto 8. When we ported the service we were concerned with rebuilding our code and updating our dependencies to be compatible with JDK 11. We were concerned first and foremost with security and availability, but also pursued performance improvements that enable us to reduce perceived customer latency and keep growing the service.
+ 
+We will walk through the code and dependency changes, how we measured performance, and how we safely deployed such a significant update across multiple regions in production.
+
+
 = Amazon Corretto
 
 Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the OpenJDK. Corretto comes with long-term support that will include performance enhancements and security fixes. Amazon runs Corretto internally on thousands of production services and Corretto is certified as compatible with the Java SE standard. With Corretto, you can develop and run Java applications on popular operating systems, including Amazon Linux 2, Windows, and macOS. This talk will explain on why Amazon Corretto was created. Upstream compatibility to OpenJDK is a core tenet of Corretto. Attendees will learn how an upstream OpenJDK build is published as Corretto. You'll learn how to get started with Corretto and collaborate in open source.
